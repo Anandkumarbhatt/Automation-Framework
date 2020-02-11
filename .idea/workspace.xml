@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b1c9a28-d23f-49c7-8f70-9e0739a74156" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutub\IdeaProjects\skyronic-testng-test\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RunAllTestHere.test3">
+    <configuration name="RunAllTestHere" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skyronic-testng-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spa.vue.io.github.skyronic.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spa.vue.io.github.skyronic.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="spa.vue.io.github.skyronic.testsuites.RunAllTestHere" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAllTestHere.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skyronic-testng-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spa.vue.io.github.skyronic.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spa.vue.io.github.skyronic.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="spa.vue.io.github.skyronic.testsuites.RunAllTestHere" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAllTestHere.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skyronic-testng-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spa.vue.io.github.skyronic.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spa.vue.io.github.skyronic.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="spa.vue.io.github.skyronic.testsuites.RunAllTestHere" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAllTestHere.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skyronic-testng-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spa.vue.io.github.skyronic.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spa.vue.io.github.skyronic.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="spa.vue.io.github.skyronic.testsuites.RunAllTestHere" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAllTestHere.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skyronic-testng-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spa.vue.io.github.skyronic.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spa.vue.io.github.skyronic.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="spa.vue.io.github.skyronic.testsuites.RunAllTestHere" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunAllTestHere.test3" />
+        <item itemvalue="TestNG.RunAllTestHere" />
+        <item itemvalue="TestNG.RunAllTestHere.test1" />
+        <item itemvalue="TestNG.RunAllTestHere.test4" />
+        <item itemvalue="TestNG.RunAllTestHere.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1c9a28-d23f-49c7-8f70-9e0739a74156" name="Default Changelist" comment="" />
+      <created>1581363089136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581363089136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
